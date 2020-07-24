@@ -11,5 +11,5 @@ class Quadrado(var area: Float)
 
 
 fun main() {
-    T
+
 }
