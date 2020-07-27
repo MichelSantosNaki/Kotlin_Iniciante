@@ -29,6 +29,8 @@ fun countConsonants(str: String): Int {
     return total
 
 }
+                                    //uso filter, cololo pra minuscolo e chego se tem iou e retorno o length
+fun countVowelsFilter(str:String) = str.filter{it.toLowerCase() in "aeiou"}.length
 
 
 
